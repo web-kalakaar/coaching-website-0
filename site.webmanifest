@@ -1,0 +1,20 @@
+{
+  "name": "Shikhar Classes ",
+  "short_name": "Apex",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b2447",
+  "theme_color": "#0b2447",
+  "icons": [
+    {
+      "src": "images/logo.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
